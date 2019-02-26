@@ -23,8 +23,9 @@ You're always strongly invited to request consultation, but please send an e-mai
 
 
 ## Grading System
-This is Programming Languages II course, both Programming Languages I and II will be evaluated by exam during exam period. 
+This is Programming Languages II course, both Programming Languages I and II will be evaluated by exam during exam period.
 
+The exam will be composed by both, theoretical and practical questions which will be compiled into a single 
 
 
 ### Absences
