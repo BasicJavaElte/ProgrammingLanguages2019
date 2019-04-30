@@ -14,3 +14,8 @@
 
 
 This class was based on [this tutorial](https://www.programiz.com/cpp-programming/object-class)
+
+### Short Exercise:
+Create a Class Person with Name and family name and year of birth;
+Read the information from the user;
+Print out a summary with the age (based on year 2019)
