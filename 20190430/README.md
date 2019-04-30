@@ -1,10 +1,16 @@
-#First C++ Class
+
 
 ##Today's content
 
-- C++ compilation with command line tools, repeating: multiple source files, object file, linking
+- Classes, constructors. Creating objects on the stack. Repeating: how the stack works, limitations
+- Storing user objects in STL containers
+- Copying objects
+- Copy constructor, assignment operator
+- destructor
+- new/delete, dynamic memory allocation
+- RAII
+- Copying objects in S
 
-- Hello World in C++
-- Namespaces, std
-- Type safe I/O: iostream, how to use it.
-- References, parameter passing
+
+
+This class was based on [this tutorial](https://www.programiz.com/cpp-programming/object-class)
