@@ -15,4 +15,10 @@
 - [Inheritance](https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
 
 
-This class was based on [this tutorial](https://www.programiz.com/cpp-programming/object-class)
+## Inheritance Exercise:
+Create a multiple inherited Class Driver as follows:
+- Driver (license), which inherits from Person (name, family name) and Worker (TAX Number)
+- Create the Constructors with arguments for Driver
+- Create the destructor method for Driver 
+
+
